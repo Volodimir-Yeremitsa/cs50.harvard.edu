@@ -2,7 +2,7 @@ table {
     border: 1px solid black;
     border-collapse: collapse;
 }
-
+        <!-- We can create headings using h1 through h6 as tags. -->
 td, th {
     border: 1px solid black;
     padding: 10px;
@@ -12,6 +12,6 @@ td, th {
               text-align: center;	
 }	
 .red {
-              color: red;
+              color: green;
               text-align: center;		
 }
